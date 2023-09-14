@@ -1,7 +1,7 @@
 <!-- <?xml version="1.0"?>
 
 <package format="2">
-  <name>unitree_legged_msgs</name>
+  <name>unitree_legged_msgs-master</name>
   <version>0.0.0</version>
   <description>
     The test messgaes package.
@@ -19,7 +19,7 @@
 </package> -->
 
 <package format="3">
-  <name>ros2_unitree_legged_msgs</name>
+  <name>ros2_unitree_legged_msgs-master</name>
   <version>0.4.0</version>
   <description>Contains message and service definitions used by the examples.</description>
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
