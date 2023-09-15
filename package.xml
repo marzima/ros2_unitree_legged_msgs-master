@@ -1,7 +1,7 @@
 <!-- <?xml version="1.0"?>
 
 <package format="2">
-  <name>unitree_legged_msgs-master</name>
+  <name>unitree_legged_msgs_master</name>
   <version>0.0.0</version>
   <description>
     The test messgaes package.
