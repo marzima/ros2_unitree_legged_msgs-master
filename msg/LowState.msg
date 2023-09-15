@@ -1,8 +1,8 @@
 uint8 level_flag
 # uint16 commVersion              # Old version Aliengo does not have
 # uint16 robotID                  # Old version Aliengo does not have
- uint32 SN                       # Old version Aliengo does not have
- #uint8 bandWidth                 # Old version Aliengo does not have
+# uint32 SN                       # Old version Aliengo does not have
+# uint8 bandWidth                 # Old version Aliengo does not have
  #IMU imu
  MotorState[20] motorState
  int16[4] footForce              # force sensors     # Old version Aliengo is different
