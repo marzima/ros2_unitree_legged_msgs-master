@@ -26,7 +26,6 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/LowState.msg"
   "msg/HighCmd.msg"
   "msg/HighState.msg"
-  "msg/LowState.msg"
 )
 
 
